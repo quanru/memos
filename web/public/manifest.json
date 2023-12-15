@@ -2,7 +2,7 @@
   "short_name": "memos",
   "name": "memos",
   "description": "usememos/memos",
-  "start_url": "/",
+  "start_url": "/review",
   "scope": "/",
   "display": "standalone",
   "theme_color": "#f4f4f5",
